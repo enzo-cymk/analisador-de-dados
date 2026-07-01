@@ -1,11 +1,51 @@
-marca,modelo,quantidade,data,valor,cidade
-Volkswagen,Polo,10,2026-06-20,230,Belo Horizonte
-Fiat,Mobi,22,2026-04-17,170,São Paulo
-Honda,Civic,31,2026-03-25,280,Uberlandia
-Hyundai,HB20,17,2025-02-17,250,Uberaba
-Toyota,Corola,15,2025-12-20,300,São José dos Campos
-Nissan,Sentra,33,2026-01-10,290,Divinopolis
-Ford,Ranger,25,2025-07-15,220,Ribeirão Preto
-Mitsubishi,L200,7,2026-04-12,350,Montes Claros
-BYD,Dolphin,31,2026-05-15,380,Betim
-Jeep,Compass,25,2025-08-01,200,Contagem
+marca,modelo,cidade,data,valor,quantidade
+Fiat,Hilux,Divinopolis,2025-12-23,118,23
+Fiat,Argo,Contagem,2026-03-16,209,4
+Fiat,Civic,Contagem,2024-10-21,323,21
+Hyundai,Argo,Uberaba,2025-04-01,295,16
+Fiat,Hilux,Uberlandia,2025-04-16,258,2
+Mercedes,i30,Divinopolis,2025-01-21,275,6
+Mercedes,Hilux,Contagem,2024-10-24,247,6
+Mercedes,Argo,Contagem,2025-09-15,206,25
+Toyota,i30,Belo Horizonte,2025-04-04,372,19
+Hyundai,Civic,Uberaba,2025-07-04,276,37
+Honda,i30,Divinopolis,2024-07-23,314,25
+Fiat,i30,Uberaba,2025-11-07,108,5
+Fiat,i30,Contagem,2024-11-01,183,17
+Fiat,i30,Divinopolis,2025-07-25,100,23
+Mercedes,Civic,Uberlandia,2024-09-24,257,16
+Honda,G62,Uberaba,2024-07-16,340,31
+Fiat,Civic,Uberlandia,2026-04-20,170,40
+Hyundai,G62,Belo Horizonte,2024-12-23,322,16
+Mercedes,G62,Uberaba,2026-04-01,190,36
+Hyundai,Hilux,Uberaba,2024-10-15,106,14
+Honda,Argo,Uberaba,2026-04-27,312,36
+Hyundai,Civic,Uberlandia,2026-04-09,250,30
+Mercedes,G62,Contagem,2025-07-03,106,16
+Honda,Hilux,Contagem,2024-11-16,313,14
+Toyota,i30,Uberaba,2025-06-05,302,23
+Honda,Argo,Uberlandia,2025-02-15,364,32
+Hyundai,Argo,Divinopolis,2025-04-16,314,7
+Hyundai,i30,Contagem,2025-02-12,239,11
+Hyundai,i30,Contagem,2025-05-14,202,15
+Toyota,G62,Contagem,2024-10-07,133,28
+Honda,i30,Belo Horizonte,2024-08-21,189,6
+Toyota,Argo,Divinopolis,2026-05-21,228,20
+Fiat,Hilux,Uberlandia,2024-07-11,310,24
+Honda,Argo,Divinopolis,2025-03-14,371,18
+Toyota,Hilux,Uberlandia,2025-04-06,351,13
+Honda,G62,Divinopolis,2025-09-24,347,23
+Mercedes,Argo,Belo Horizonte,2025-07-22,383,15
+Honda,i30,Contagem,2025-12-07,300,11
+Hyundai,G62,Uberaba,2024-09-16,107,11
+Hyundai,i30,Divinopolis,2025-10-10,235,4
+Honda,Civic,Uberlandia,2024-07-17,139,26
+Mercedes,Hilux,Contagem,2025-06-30,191,29
+Toyota,i30,Uberaba,2025-11-03,334,33
+Mercedes,Hilux,Divinopolis,2026-04-24,113,18
+Honda,Hilux,Uberaba,2025-11-11,283,27
+Toyota,G62,Uberaba,2025-07-02,185,32
+Hyundai,Hilux,Uberaba,2025-12-31,246,19
+Honda,Hilux,Uberaba,2025-10-16,183,12
+Hyundai,i30,Uberlandia,2025-08-18,133,5
+Mercedes,G62,Divinopolis,2024-10-26,379,16
